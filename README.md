@@ -5,3 +5,4 @@ Update dependencies
 Create analytics page
 Add file upload support
 Implement rate limiting
+Add Docker configuration
