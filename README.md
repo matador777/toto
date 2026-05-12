@@ -7,3 +7,4 @@ Add file upload support
 Implement rate limiting
 Add Docker configuration
 Improve error handling
+Refactor backend structure
